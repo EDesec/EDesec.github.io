@@ -1,0 +1,24 @@
+[project]
+name = lektor-resume
+
+[servers.ghpages]
+target = ghpages+https://hannylicious/lektor-theme-resume
+
+[theme_settings]
+	first_name = "Eamon"
+	last_name = "Dwight"
+	name = "Eamon Dwight"
+	street = "123 Somewhere Dr."
+	city = "Chicago"
+	state = "Illinois" 
+	zip = "60007"
+	phone = "(312)555-4567"
+	email = "your_email@yourdomain.com"
+	about = "info_about_you"
+	githubID = "your_github"
+	gitlabID = "your_gitlab"
+	codepenID = "your_codepen"
+	linkedInURL = "your_linkedin"
+	googleplusID = "your_googleplus"
+	profilepicture = "profile_picture_asset_url"
+	comments = "yes"	

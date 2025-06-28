@@ -1,6 +1,5 @@
-title: Welcome to Portfolio!
+_model: main-page
 ---
-body:
-
-This is a basic demo website that shows how to use Lektor for a basic
-website with some pages and a blog.
+title: Welcome to my site!
+---
+body: Driven and innovative researcher with a strong track record in computational physics and quantum information. Skilled at tackling complex challenges and optimizing simulation tools for better research efficiency. Committed to building solutions that push boundaries in technical environments, while creating a culture of growth and rapid progress. Enthusiastic to contribute to cutting‐edge research and development, with a focus on advancing computational techniques.
