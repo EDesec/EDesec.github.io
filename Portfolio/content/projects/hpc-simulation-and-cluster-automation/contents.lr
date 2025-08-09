@@ -1,0 +1,21 @@
+title: HPC Simulation and Cluster Automation
+---
+languages: Python (Pytorch, numpy, pandas), C++, Bash, CUDA
+---
+author: Eamon Dwight
+---
+body:
+
+Optimized legacy simulation workflows for HPC environments by migrating and automating parallel job execution across cluster nodes.
+
+Migrated simulation pipelines to an HPC cluster, improving performance by 300% and introducing a modular job submission system via Slurm.
+
+Developed automated shell scripts and job arrays to parallelize batch simulation runs across GPU nodes, significantly reducing researcher overhead.
+
+Benchmarked performance of Tesla A100 and V100 GPUs using PyTorch; trained models for granular dynamics achieved optimized runtime.
+
+Documented procedures to ensure reproducibility and facilitate reuse across physics department labs.
+---
+frameworks: Linux, Slurm, bash
+---
+pub_date: 2024-12-30

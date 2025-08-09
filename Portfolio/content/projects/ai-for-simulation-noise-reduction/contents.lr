@@ -1,0 +1,15 @@
+title: AI for Simulation Noise Reduction
+---
+author: Eamon Dwight
+---
+body:
+
+Designed and trained a convolutional neural network in PyTorch to identify and denoise high-entropy regions in floating-point simulation data.
+
+Leveraged GPU acceleration (CUDA) and hyperparameter tuning to improve model inference time and enhance generalizability across simulation sets.
+---
+frameworks: Slurm, High Performance Computing
+---
+languages: Python, Kubernetes, Docker
+---
+pub_date: 2025-07-30

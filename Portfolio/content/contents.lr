@@ -1,5 +1,5 @@
 _model: main-page
 ---
-title: Welcome to my site!
+title: Welcome to my Portfolio
 ---
-body: Driven and innovative researcher with a strong track record in computational physics and quantum information. Skilled at tackling complex challenges and optimizing simulation tools for better research efficiency. Committed to building solutions that push boundaries in technical environments, while creating a culture of growth and rapid progress. Enthusiastic to contribute to cutting‐edge research and development, with a focus on advancing computational techniques.
+body: High-performance computing specialist driving breakthroughs in simulation, AI, and quantum information science. I design and deploy scalable HPC pipelines, engineer GPU-optimized machine learning models, and build reproducible research infrastructure that accelerates discovery. From refactoring quantum circuit simulators to automating multi-node GPU workloads, I deliver measurable performance gains and production-ready solutions. My work bridges computational physics, deep learning, and distributed systems—turning complex technical challenges into high-impact results.

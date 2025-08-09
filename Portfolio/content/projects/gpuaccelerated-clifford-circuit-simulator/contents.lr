@@ -1,0 +1,15 @@
+title: GPU‐Accelerated Clifford Circuit Simulator
+---
+author: Eamon Dwight
+---
+body:
+
+Collaborated with other students to research improved decoders for various quantum error correction codes.
+
+Built documentation and reproducible testing environments for multiple decoder backends using Overleaf and Git.
+---
+frameworks: Git, Overleaf, Linux
+---
+languages: Julia, HTML/CSS, Latex
+---
+pub_date: 2025-05-11

@@ -1,0 +1,11 @@
+title: Fidelity basis for Causation/Correlation
+---
+author: Eamon Dwight
+---
+body: Ongoing development of an AI pipeline to detect and differentiate between correlation and causation in large-scale financial and statistical datasets. Currently implementing a convolutional neural network in PyTorch to identify and denoise high-entropy floating-point outputs from simulated physical systems. Early benchmarking with GPU acceleration (CUDA) shows promising runtime improvements, with hyperparameter tuning underway to enhance generalizability across datasets. Data ingestion and preprocessing workflows are being automated with Bash scripts and Slurm job arrays for scalable execution on HPC clusters. Next stages focus on refining the model’s causal inference capabilities and integrating results into an interpretable visualization framework.
+---
+frameworks: PyTorch, NumPy, Pandas, Scikit-learn, Matplotlib / Seaborn, Parquet (via pyarrow or fastparquet), Slurm
+---
+languages: Python, SQL, Bash Scripting, CUDA
+---
+pub_date: 2025-08-03
