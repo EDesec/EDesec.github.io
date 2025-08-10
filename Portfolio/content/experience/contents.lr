@@ -1,0 +1,30 @@
+_model: page
+---
+title: Experience
+---
+body:
+
+<section id="experience">
+
+  <div class="experience-item">
+    <h3>High Performance Computing Researcher</h3>
+    <p class="company">University of Massachusetts Amherst <span class="date">May 2023 – Present</span></p>
+    <ul>
+      <li>Migrated legacy simulation pipelines to an HPC cluster, boosting performance by <strong>300%</strong> and introducing a modular job submission system with <strong>Slurm</strong>.</li>
+      <li>Automated multi-node GPU workflows with Bash scripts and job arrays, reducing researcher overhead and enabling large-scale parallel runs.</li>
+      <li>Benchmarked and optimized <strong>Tesla A100</strong> and <strong>V100</strong> GPUs using <strong>PyTorch</strong> for granular dynamics simulations.</li>
+      <li>Documented and standardized workflows to ensure reproducibility across research teams.</li>
+    </ul>
+  </div>
+
+  <div class="experience-item">
+    <h3>Teaching Assistant – Numerical Methods in Physics</h3>
+    <p class="company">University of Massachusetts Amherst <span class="date">June – August 2024</span></p>
+    <ul>
+      <li>Instructed students in <strong>Python</strong> and <strong>Bash</strong> for numerical problem solving in physics.</li>
+      <li>Introduced <strong>Git</strong> and version control workflows for collaborative coding projects.</li>
+      <li>Guided students through debugging, performance optimization, and reproducibility best practices.</li>
+    </ul>
+  </div>
+</section>
+

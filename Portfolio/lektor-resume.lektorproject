@@ -2,7 +2,7 @@
 name = lektor-resume
 
 [servers.ghpages]
-target = ghpages+https://hannylicious/lektor-theme-resume
+target = ghpages+https://EDesec/EDesec.github.io
 
 [theme_settings]
 	first_name = "Eamon"
